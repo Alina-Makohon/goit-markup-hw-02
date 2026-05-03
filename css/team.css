@@ -1,0 +1,16 @@
+.team {
+  background-color: #f4f4fd;
+}
+.team-title {
+  text-align: center;
+}
+.team-list {
+  background-color: #ffffff;
+}
+.team-player {
+  text-align: center;
+}
+.team-role {
+  text-align: center;
+  line-height: 1.5;
+}
